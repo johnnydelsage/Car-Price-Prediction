@@ -49,13 +49,15 @@ jupyter notebook "Car Price Prediction.ipynb"
 
 
 ## Project Structure
+
+```
 ├── .gitignore # Git ignore file
 ├── autos.csv # Dataset with car information
 ├── Car Price Prediction.ipynb # Main notebook with full ML pipeline
 ├── LICENSE # Project license
 ├── README.md # Project description and instructions
 └── requirements.txt # Minimal dependencies
-
+```
 
 ## Future Improvements
 - Add more feature engineering (engine volume, region, condition, etc.)
