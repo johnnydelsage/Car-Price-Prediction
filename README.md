@@ -30,19 +30,23 @@ Workflow:
 
 ## How to Run
 Clone the repo:
-    git clone https://github.com/artemxdata/Car-Price-Prediction.git
-    cd car-price-prediction
+git clone https://github.com/artemxdata/Car-Price-Prediction.git
+cd car-price-prediction
 
-Create and activate a virtual environment:
-    python -m venv venv
-    source venv/bin/activate    # Linux/Mac
-    venv\Scripts\activate       # Windows
 
-Install dependencies:
-    pip install -r requirements.txt
+## Create and activate a virtual environment:
+- python -m venv venv
+- source venv/bin/activate # Linux/Mac
+- venv\Scripts\activate # Windows
 
-Run Jupyter Notebook:
-    jupyter notebook "Car Price Prediction.ipynb"
+
+## Install dependencies:
+pip install -r requirements.txt
+
+
+## Run Jupyter Notebook:
+jupyter notebook "Car Price Prediction.ipynb"
+
 
 ## Project Structure
 ├── .gitignore # Git ignore file
@@ -52,6 +56,7 @@ Run Jupyter Notebook:
 ├── README.md # Project description and instructions
 └── requirements.txt # Minimal dependencies
 
+
 ## Future Improvements
 - Add more feature engineering (engine volume, region, condition, etc.)
 - Try additional boosting models (XGBoost, CatBoost)
@@ -59,3 +64,5 @@ Run Jupyter Notebook:
 
 ## Author
 Made for educational and practical purposes.
+
+
