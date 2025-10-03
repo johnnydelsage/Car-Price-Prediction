@@ -30,7 +30,7 @@ Workflow:
 
 ## How to Run
 Clone the repo:
-    git clone https://github.com/your-username/car-price-prediction.git
+    git clone https://github.com/artemxdata/Car-Price-Prediction.git
     cd car-price-prediction
 
 Create and activate a virtual environment:
@@ -45,13 +45,12 @@ Run Jupyter Notebook:
     jupyter notebook "Car Price Prediction.ipynb"
 
 ## Project Structure
-.
-├── .gitignore                   # Git ignore file
-├── autos.csv                    # Dataset with car information
-├── Car Price Prediction.ipynb   # Main notebook with full ML pipeline
-├── LICENSE                      # Project license
-├── README.md                    # Project description and instructions
-└── requirements.txt             # Minimal dependencies
+├── .gitignore # Git ignore file
+├── autos.csv # Dataset with car information
+├── Car Price Prediction.ipynb # Main notebook with full ML pipeline
+├── LICENSE # Project license
+├── README.md # Project description and instructions
+└── requirements.txt # Minimal dependencies
 
 ## Future Improvements
 - Add more feature engineering (engine volume, region, condition, etc.)
