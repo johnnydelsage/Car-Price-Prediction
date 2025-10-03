@@ -52,7 +52,6 @@ jupyter notebook "Car Price Prediction.ipynb"
 
 ```
 ├── .gitignore # Git ignore file
-├── autos.csv # Dataset with car information
 ├── Car Price Prediction.ipynb # Main notebook with full ML pipeline
 ├── LICENSE # Project license
 ├── README.md # Project description and instructions
